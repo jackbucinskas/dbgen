@@ -13,5 +13,4 @@ for (x = 0; x < 100; x++) {
     userValues.push("INSERT INTO USERS VALUES(" + x + ", '" + FNAME + "', '" + LNAME + "', '" + DOB + "', " + BALANCE + ");" );
 }
 
-// console.log(userValues);
 console.log(userValues.join('\n'));
