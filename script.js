@@ -1,9 +1,9 @@
 var chance = new Chance(Math.random);
 
 var userValues = [];
-var x = 100;
+var x = 10;
 
-for (x = 0; x < 100; x++) {
+for (x = 0; x < 10; x++) {
     // var ID = chance.integer({ min: 1000, max: 9999 });
     var FNAME = chance.first();
     var LNAME = chance.last();
