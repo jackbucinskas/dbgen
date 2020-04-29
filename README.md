@@ -1,2 +1,2 @@
 # dbgen
-Sample Database Generation
+Sample Database Generation using Chance.js library
